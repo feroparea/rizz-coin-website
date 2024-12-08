@@ -1,1 +1,1 @@
-# rizz-coin-website
+# rizz-on-solana
